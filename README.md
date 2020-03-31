@@ -1,5 +1,6 @@
 # XlsWxg
 Excel Function written by C#, using by Excel Addon
+SRC:<https://github.com/lqwangxg/Xlsw.git>
 
 ## Macro4OracleDB
 -------------------------------
