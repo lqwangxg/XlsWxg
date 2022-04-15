@@ -1,6 +1,14 @@
 # XlsWxg
 Excel Function written by C#, using by Excel Addon
-SRC:<https://github.com/lqwangxg/Xlsw.git>
+#事前のExcel AddOn導入
+- window10 64bit
+  1. Macro4OracleDB.xlsmを開く
+  2. コンテンツを有効化する  
+     ![image](https://user-images.githubusercontent.com/32559839/163555972-e581d5cc-5ffa-4c48-9ce1-6408fcaf473b.png)
+  3. Excel Andonを追加  
+     ![image](https://user-images.githubusercontent.com/32559839/163556025-2e6ea081-a859-4e62-99dd-aedf2b5c6c35.png)  
+     ![image](https://user-images.githubusercontent.com/32559839/163556604-41a32f82-5d46-46e0-b7c3-35d3fdc31198.png)  
+     ![image](https://user-images.githubusercontent.com/32559839/163556218-8bd987c5-519c-48c7-9632-00f5aeb8f927.png)  
 
 ## Macro4OracleDB
 -------------------------------
